@@ -1,0 +1,18 @@
+﻿  Application.cpp
+C:\Users\Thomas Popay\source\repos\Pong\OpenGL\src\Application.cpp(204,84): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Thomas Popay\source\repos\Pong\OpenGL\src\Application.cpp(204,55): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Thomas Popay\source\repos\Pong\OpenGL\src\Application.cpp(205,83): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Thomas Popay\source\repos\Pong\OpenGL\src\Application.cpp(205,54): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Thomas Popay\source\repos\Pong\OpenGL\src\Application.cpp(206,127): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Thomas Popay\source\repos\Pong\OpenGL\src\Application.cpp(206,98): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Thomas Popay\source\repos\Pong\OpenGL\src\Application.cpp(206,67): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Thomas Popay\source\repos\Pong\OpenGL\src\Application.cpp(210,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Thomas Popay\source\repos\Pong\OpenGL\src\Application.cpp(213,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Thomas Popay\source\repos\Pong\OpenGL\src\Application.cpp(216,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Thomas Popay\source\repos\Pong\OpenGL\src\Application.cpp(219,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Thomas Popay\source\repos\Pong\OpenGL\src\Application.cpp(227,82): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Thomas Popay\source\repos\Pong\OpenGL\src\Application.cpp(227,47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Thomas Popay\source\repos\Pong\OpenGL\src\Application.cpp(228,81): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Thomas Popay\source\repos\Pong\OpenGL\src\Application.cpp(228,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Thomas Popay\source\repos\Pong\OpenGL\src\Application.cpp(246,23): warning C4305: 'argument': truncation from 'double' to 'float'
+  OpenGL.vcxproj -> C:\Users\Thomas Popay\source\repos\Pong\OpenGL\Debug\Template.exe
